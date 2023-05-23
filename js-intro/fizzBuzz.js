@@ -10,4 +10,4 @@ const fizzBuzz = (num) => {
   }
 }
 
-console.log(fizzBuzz(2))
+module.exports = fizzBuzz;
