@@ -1,1 +1,0 @@
-# Starting the javascript journey
