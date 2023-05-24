@@ -19,4 +19,5 @@ describe('fizzBuzz', () => {
   test('returns Buzz', () => {
     expect(fizzBuzz(20)).toBe('Buzz');
   });
+  
 });
